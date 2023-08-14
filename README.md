@@ -14,7 +14,7 @@
 
 
 
-## Principais Técnologias em aprendizado:
+## Principais Técnologias:
 
 
 <div style="flex" >
